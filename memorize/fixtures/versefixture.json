@@ -1,0 +1,106 @@
+[
+	{
+		"model": "memorize.verse",
+		"pk": 1,
+		"fields": {
+			"reference": "Isaías 59:2",
+			"text": "Mas as suas maldades separaram vocês do seu Deus; os seus pecados esconderam de vocês o rosto dele, e por isso ele não os ouvirá."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 2,
+		"fields": {
+			"reference": "João 1:12",
+			"text": "Contudo, aos que o receberam, aos que creram em seu nome, deu-lhes o direito de se tornarem filhos de Deus."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 3,
+		"fields": {
+			"reference": "João 3:16",
+			"text": "Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 4,
+		"fields": {
+			"reference": "Atos 3:19",
+			"text": "Arrependam-se, pois, e voltem-se para Deus, para que os seus pecados sejam cancelados."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 5,
+		"fields": {
+			"reference": "Romanos 3:23",
+			"text": "Pois todos pecaram e estão destituídos da glória de Deus."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 6,
+		"fields": {
+			"reference": "Romanos 5:8",
+			"text": "Mas Deus demonstra seu amor por nós: Cristo morreu em nosso favor quando ainda éramos pecadores."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 7,
+		"fields": {
+			"reference": "Romanos 6:23",
+			"text": "Pois o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 8,
+		"fields": {
+			"reference": "Romanos 10:9-10",
+			"text": "Se você confessar com a sua boca que Jesus é Senhor e crer em seu coração que Deus o ressuscitou dentre os mortos, será salvo. Pois com o coração se crê para justiça, e com a boca se confessa para salvação."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 9,
+		"fields": {
+			"reference": "Efésios 2:8-9",
+			"text": "Pois vocês são salvos pela graça, por meio da fé, e isto não vem de vocês, é dom de Deus; não por obras, para que ninguém se glorie."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 10,
+		"fields": {
+			"reference": "Colossenses 2:6-7",
+			"text": "Portanto, assim como vocês receberam Cristo Jesus, o Senhor, continuem a viver nele, enraizados e edificados nele, firmados na fé, como foram ensinados, transbordando de gratidão."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 11,
+		"fields": {
+			"reference": "Hebreus 13:5",
+			"text": "Conservem-se livres do amor ao dinheiro e contentem-se com o que vocês têm, porque Deus mesmo disse: \"Nunca o deixarei, nunca o abandonarei\"."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 12,
+		"fields": {
+			"reference": "I Pedro 3:18",
+			"text": "Pois também Cristo sofreu pelos pecados uma vez por todas, o justo pelos injustos, para conduzir-nos a Deus. Ele foi morto no corpo, mas vivificado pelo Espírito."
+		}
+	},
+	{
+		"model": "memorize.verse",
+		"pk": 13,
+		"fields": {
+			"reference": "I João 1:8-9",
+			"text": "Se afirmarmos que estamos sem pecado, enganamos a nós mesmos, e a verdade não está em nós. Se confessarmos os nossos pecados, ele é fiel e justo para perdoar os nossos pecados e nos purificar de toda injustiça."
+		}
+	}
+]

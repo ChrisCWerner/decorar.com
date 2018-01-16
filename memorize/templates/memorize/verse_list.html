@@ -1,9 +1,41 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>Decorar.com</title>
     </head>
     <body>
-        <p>Hi there!</p>
-        <p>It works!</p>
+    	
+    	<div>
+    		<h1><a href="/">Decorar.com</a></h1>
+    	</div>
+
+    	<div hidden>
+    		<p>O objetivo deste site é auxilar a memorização dos versículos do Módulo 1 do Treinamento MPC.</p>
+
+    		<p>Regras:</p>
+    		<li>1. Selecione o item que você deseja memorizar;</li>
+		    <li>2. Atente-se ao texto da forma que está escrito: você deve escrevê-lo da mesma forma para pontuar;</li>
+		    <li>3. Para sair do ambiente de memorização, você deve digitar o texto e a referência corretamente 3 vezes seguidas.</li>
+
+		    <br>
+
+    		<p>O progresso funciona da seguinte forma:</p>
+	        <li>1. Caso ambos o texto e a referência estiverem errados, o contador do progresso voltará ao 0;</li>
+	        <li>2. Caso ou o texto ou a referência estiver errado, o contador do progresso voltará em 1 a um mínimo de 0;</li>
+	        <li>3. Caso ambos texto e referência estiverem corretos, o contador do progresso avançará em 1;</li>
+	        <li>4. Uma vez que o contador do progresso chegar a 3, você sairá do ambiente de memorização e voltará para o último menu.</li>
+    		<br><br>
+    	</div>
+
+    	<div>
+	    	{% for verse in verses %}
+	    		<div>
+	    			<p> {{ verse.reference }} </p>
+	    			<p> {{ verse.text }} </p>
+	    			<button>Decorar!</button>
+	    		</div>
+	    		<br>
+	    	{% endfor %}
+    	</div>
     </body>
 </html>
